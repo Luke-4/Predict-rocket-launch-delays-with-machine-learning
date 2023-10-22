@@ -26,5 +26,5 @@ The Team Data Science Process (TDSP) provides a recommended lifecycle that you c
 ## Choosing an algorithm
 A common question is “Which machine learning algorithm should I use?"
 <p align="center">
-<img src="https://github.com/Luke-4/Predict-rocket-launch-delays-with-machine-learning/assets/138615931/a325dcf9-6561-4aa4-ace9-e8bd311d846f" width="1000" height="800">
+<img src="https://github.com/Luke-4/Predict-rocket-launch-delays-with-machine-learning/assets/138615931/a325dcf9-6561-4aa4-ace9-e8bd311d846f" width="1000" height="700">
 </p>
