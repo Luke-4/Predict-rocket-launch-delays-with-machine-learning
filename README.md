@@ -1,5 +1,12 @@
-# Predict-rocket-launch-delays-with-machine-learning
+# Predict Rocket Launch Delays with Machine Learning
 
+This project was Developed as part of a [learning path](https://learn.microsoft.com/en-us/training/paths/machine-learning-predict-launch-delay-nasa/) in Microsoft Learning, Predict rocket launch delays with machine learning. Is a very simple project with some foundations in data Data Preprocessing, and Machine learning. 
+
+In this learning path, the goal was to use artificial intelligence and machine learning to discover weather patterns on days when rockets are successfully launched. By using those patterns, predict whether a launch is likely to happen based on specific weather conditions.
+
+To achieve this a very simple Decision tree was implemented to make the predictions and the model was evaluated using Macro F1 Score. 
+
+## Key Takeaways:
 
 ## Team Data Science Process lifecycle
 The Team Data Science Process (TDSP) provides a recommended lifecycle that you can use to structure your data science projects.
